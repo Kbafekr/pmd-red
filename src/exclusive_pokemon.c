@@ -276,4 +276,3 @@ void ReadExclusivePokemon(DataSerializer *r0)
     }
     sub_8097FF8();
 }
-
