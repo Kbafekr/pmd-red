@@ -7477,11 +7477,13 @@
         "movementSpeed": 1,
         "dialogueSprites": "0b0001111111111111",
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
+            "ABILITY_LEVITATE",
             "ABILITY_BLAZE"
         ],
         "shadowSize": 1,
@@ -7521,11 +7523,13 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
+            "ABILITY_LEVITATE",
             "ABILITY_BLAZE"
         ],
         "shadowSize": 1,
@@ -7572,11 +7576,13 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
+            "ABILITY_LEVITATE",
             "ABILITY_BLAZE"
         ],
         "shadowSize": 1,
@@ -13486,7 +13492,8 @@
         "movementSpeed": 1,
         "dialogueSprites": "0b0001111111111111",
         "types": [
-            "TYPE_WATER"
+            "TYPE_WATER",
+            "TYPE_GROUND"
         ],
         "movementType": "MOVEMENT_TYPE_WATER",
         "friendArea": "PEANUT_SWAMP",

@@ -11233,6 +11233,7 @@
             "MOVE_VACUUM_CUT"
         ]
     },
+
     {
         "pokemon": "Cyndaquil",
         "levelUpMoves": [
@@ -11249,12 +11250,28 @@
                 "level": 6
             },
             {
+                "move": "MOVE_THUNDERSHOCK",
+                "level": 9
+            },
+            {
                 "move": "MOVE_EMBER",
                 "level": 12
             },
             {
+                "move": "MOVE_THUNDER_WAVE",
+                "level": 15
+            },
+            {
                 "move": "MOVE_QUICK_ATTACK",
-                "level": 19
+                "level": 18
+            },
+            {
+                "move": "MOVE_DOUBLE_TEAM",
+                "level": 21
+            },
+            {
+                "move": "MOVE_AGILITY",
+                "level": 24
             },
             {
                 "move": "MOVE_FLAME_WHEEL",
@@ -11262,11 +11279,27 @@
             },
             {
                 "move": "MOVE_SWIFT",
-                "level": 36
+                "level": 30
             },
             {
                 "move": "MOVE_FLAMETHROWER",
-                "level": 46
+                "level": 33
+            },
+            {
+                "move": "MOVE_THUNDERPUNCH",
+                "level": 36
+            },
+            {
+                "move": "MOVE_BULLET_SEED",
+                "level": 39
+            },
+            {
+                "move": "MOVE_THUNDERBOLT",
+                "level": 42
+            },
+            {
+                "move": "MOVE_ERUPTION",
+                "level": 45
             }
         ],
         "HMTMMoves": [
@@ -11288,6 +11321,10 @@
             "MOVE_ATTRACT",
             "MOVE_FRUSTRATION",
             "MOVE_WIDE_SLASH",
+            "MOVE_THUNDER",
+            "MOVE_THUNDERBOLT",
+            "MOVE_BRICK_BREAK",
+            "MOVE_SHOCK_WAVE",
             "MOVE_VACUUM_CUT"
         ]
     },
@@ -11311,24 +11348,56 @@
                 "level": 6
             },
             {
+                "move": "MOVE_THUNDERSHOCK",
+                "level": 9
+            },
+            {
                 "move": "MOVE_EMBER",
                 "level": 12
             },
             {
+                "move": "MOVE_THUNDER_WAVE",
+                "level": 15
+            },
+            {
                 "move": "MOVE_QUICK_ATTACK",
+                "level": 18
+            },
+            {
+                "move": "MOVE_DOUBLE_TEAM",
                 "level": 21
             },
             {
+                "move": "MOVE_AGILITY",
+                "level": 24
+            },
+            {
                 "move": "MOVE_FLAME_WHEEL",
-                "level": 31
+                "level": 27
             },
             {
                 "move": "MOVE_SWIFT",
-                "level": 42
+                "level": 30
             },
             {
                 "move": "MOVE_FLAMETHROWER",
-                "level": 54
+                "level": 33
+            },
+            {
+                "move": "MOVE_THUNDERPUNCH",
+                "level": 36
+            },
+            {
+                "move": "MOVE_BULLET_SEED",
+                "level": 39
+            },
+            {
+                "move": "MOVE_THUNDERBOLT",
+                "level": 42
+            },
+            {
+                "move": "MOVE_ERUPTION",
+                "level": 45
             }
         ],
         "HMTMMoves": [
@@ -11355,6 +11424,9 @@
             "MOVE_ATTRACT",
             "MOVE_FRUSTRATION",
             "MOVE_WIDE_SLASH",
+            "MOVE_THUNDER",
+            "MOVE_THUNDERBOLT",
+            "MOVE_SHOCK_WAVE",
             "MOVE_VACUUM_CUT"
         ]
     },
@@ -11382,24 +11454,80 @@
                 "level": 6
             },
             {
+                "move": "MOVE_THUNDERSHOCK",
+                "level": 9
+            },
+            {
                 "move": "MOVE_EMBER",
                 "level": 12
             },
             {
+                "move": "MOVE_THUNDER_WAVE",
+                "level": 15
+            },
+            {
                 "move": "MOVE_QUICK_ATTACK",
+                "level": 18
+            },
+            {
+                "move": "MOVE_DOUBLE_TEAM",
                 "level": 21
             },
             {
+                "move": "MOVE_AGILITY",
+                "level": 24
+            },
+            {
                 "move": "MOVE_FLAME_WHEEL",
-                "level": 31
+                "level": 27
             },
             {
                 "move": "MOVE_SWIFT",
-                "level": 45
+                "level": 30
             },
             {
                 "move": "MOVE_FLAMETHROWER",
+                "level": 33
+            },
+            {
+                "move": "MOVE_THUNDERPUNCH",
+                "level": 36
+            },
+            {
+                "move": "MOVE_BULLET_SEED",
+                "level": 39
+            },
+            {
+                "move": "MOVE_THUNDERBOLT",
+                "level": 42
+            },
+            {
+                "move": "MOVE_ERUPTION",
+                "level": 45
+            },
+            {
+                "move": "MOVE_ROCK_SLIDE",
+                "level": 48
+            },
+            {
+                "move": "MOVE_EARTHQUAKE",
+                "level": 51
+            },
+            {
+                "move": "MOVE_THUNDER",
+                "level": 54
+            },
+            {
+                "move": "MOVE_EXTREMESPEED",
+                "level": 57
+            },
+            {
+                "move": "MOVE_SOLARBEAM",
                 "level": 60
+            },
+            {
+                "move": "MOVE_SACRED_FIRE",
+                "level": 65
             }
         ],
         "HMTMMoves": [
@@ -11426,6 +11554,9 @@
             "MOVE_HIDDEN_POWER",
             "MOVE_ATTRACT",
             "MOVE_FRUSTRATION",
+            "MOVE_THUNDER",
+            "MOVE_THUNDERBOLT",
+            "MOVE_SHOCK_WAVE",
             "MOVE_WIDE_SLASH",
             "MOVE_VACUUM_CUT"
         ]

@@ -8,7 +8,7 @@ In general, you should not need to open these unless if you get an error or if y
 
 If you run into trouble, ask for help on Discord or IRC (see [README.md](README.md)).
 
-## Prerequisites 
+## Prerequisites
 
 First, you must put a Pokémon Mystery Dungeon Red Rescue Team 1.0 (US) ROM in the root directory of the repository and name it `baserom.gba`. It should have a SHA1 checksum of `9f4cfc5b5f4859d17169a485462e977c7aac2b89`. Then, follow the OS-specific instructions below:
 
@@ -49,15 +49,15 @@ WSL1 is the preferred terminal to build **pmd-red**. The following instructions 
 3. The next step is to choose and install a Linux distribution from the Microsoft Store. The following instructions will assume Ubuntu as the Linux distribution of choice.
     <details>
         <summary><i>Note for advanced users...</i></summary>
-    
-    >   You can pick a preferred Linux distribution, but setup instructions may differ. Debian should work with the given instructions, but has not been tested. 
+
+    >   You can pick a preferred Linux distribution, but setup instructions may differ. Debian should work with the given instructions, but has not been tested.
     </details>
 
 4. Open the [Microsoft Store Linux Selection](https://aka.ms/wslstore), click Ubuntu, then click Get, which will install the Ubuntu distribution.
     <details>
         <summary><i>Notes...</i></summary>
 
-    >   Note 1: If a dialog pops up asking for you to sign into a Microsoft Account, then just close the dialog.  
+    >   Note 1: If a dialog pops up asking for you to sign into a Microsoft Account, then just close the dialog.
     >   Note 2: If the link does not work, then open the Microsoft Store manually, and search for the Ubuntu app (choose the one with no version number).
     </details>
 
@@ -107,11 +107,11 @@ cd /mnt/c/Users/<user>/Desktop/decomps
 <details>
     <summary><i>Notes...</i></summary>
 
->   Note 1: The Windows C:\ drive is called /mnt/c/ in WSL.  
->   Note 2: If the path has spaces, then the path must be wrapped with quotations, e.g. `cd "/mnt/c/users/<user>/Desktop/decomp folder"`.  
+>   Note 1: The Windows C:\ drive is called /mnt/c/ in WSL.
+>   Note 2: If the path has spaces, then the path must be wrapped with quotations, e.g. `cd "/mnt/c/users/<user>/Desktop/decomp folder"`.
 >   Note 3: Windows path names are case-insensitive so adhering to capitalization isn't needed
 </details>
-    
+
 If this works, then proceed to [Installation](#installation).
 
 ## macOS
@@ -151,8 +151,8 @@ Note that the directory **must exist** in the folder system. If you want to stor
 
 <details>
     <summary><i>Note..</i>.</summary>
-    
->   Note: If the path has spaces, then the path must be wrapped with quotations, e.g. `cd "Desktop/decomp folder"`  
+
+>   Note: If the path has spaces, then the path must be wrapped with quotations, e.g. `cd "Desktop/decomp folder"`
 </details>
 
 If this works, then proceed to [Installation](#installation). Otherwise, ask for help on Discord or IRC (see [README.md](README.md)).
@@ -274,7 +274,7 @@ make
 
 ## Parallel builds
 
-See [the GNU docs](https://www.gnu.org/software/make/manual/html_node/Parallel.html) and [this Stack Exchange thread](https://unix.stackexchange.com/questions/208568) for more information.
+See [the GNU docs](https://www.gnu.org/software/make/manual/html_node/Parallel.html) and [this Stack` Exchange thread](https://unix.stackexchange.com/questions/208568) for more information.
 
 To speed up building, first get the value of `nproc` by running the following command:
 ```bash
