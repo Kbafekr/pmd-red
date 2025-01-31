@@ -7477,12 +7477,14 @@
         "movementSpeed": 1,
         "dialogueSprites": "0b0001111111111111",
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
-            "ABILITY_BLAZE"
+            "ABILITY_BLAZE",
+            "ABILITY_LEVITATE"
         ],
         "shadowSize": 1,
         "regenSpeed": 100,
@@ -7521,12 +7523,14 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
-            "ABILITY_BLAZE"
+            "ABILITY_BLAZE",
+            "ABILITY_LEVITATE"
         ],
         "shadowSize": 1,
         "regenSpeed": 100,
@@ -7572,12 +7576,14 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_FIRE"
+            "TYPE_FIRE",
+            "TYPE_ELECTRIC"
         ],
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "SCORCHED_PLAINS",
         "abilities": [
-            "ABILITY_BLAZE"
+            "ABILITY_BLAZE",
+            "ABILITY_LEVITATE"
         ],
         "shadowSize": 1,
         "regenSpeed": 100,
